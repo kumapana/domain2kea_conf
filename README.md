@@ -1,0 +1,2 @@
+# domain2kea_conf
+kea-dhcpのdomain-searchの設定がちょっとめんどくさいのでそれの支援ツール
